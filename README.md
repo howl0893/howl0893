@@ -1,6 +1,6 @@
 # 🏂 🚵‍♂️ Matthew Howlett
 
-`Research Scientist/Engineer`<br/>
+`Research Scientist | Engineer`<br/>
 `Michigan Aerospace Corporation`
 
 #
