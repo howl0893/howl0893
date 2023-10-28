@@ -5,7 +5,7 @@
 
 #
 
-I graduated from University in 2019 with a bachelor's in Engineering Physics. I was drawn to this discipline due to the broad bandwidth of material that would be covered. I had a wide range of interests and feared that choosing a more specialized field would lead to dissatisfaction or regret. During my studies and through my work experience at Michigan Aerospace, I have gained expertise in various areas of engineering, but a love for research and software development formulated. Over the years, I have experience designing and building remote sensors, full-stack web applications, and embedded systems from the initial stages to final product. My goal is to continue my education and become a digital craftsman, and I am pursuing this through various means, including teaching computers to learn deeply.
+As a Research Scientist | Engineer with a bachelor’s in engineering physics, I offer a robust skill set in sensor design, full-stack web development, and embedded systems, backed by years of impactful work at Michigan Aerospace. With a passion for research, I've led the software development in cutting-edge atmospheric LiDAR projects that leverage robotic control systems and machine learning. I am a motivated individual who thrives in a collaborative or remote setting, driven by a relentless curiosity to solve complex problems. Committed to lifelong learning, I’m currently focused on advancing my expertise in areas like deep learning and data analytics to further my goal of becoming a digital craftsman.
 
 #
 
