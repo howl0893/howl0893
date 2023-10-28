@@ -5,7 +5,7 @@
 
 #
 
-As a Research Scientist | Engineer with a bachelor’s in engineering physics, I offer a robust skill set in sensor design, full-stack web development, and embedded systems, backed by years of impactful work at Michigan Aerospace. With a passion for research, I've led the software development in cutting-edge atmospheric LiDAR projects that leverage robotic control systems and machine learning. I am a motivated individual who thrives in a collaborative or remote setting, driven by a relentless curiosity to solve complex problems. Committed to lifelong learning, I’m currently focused on advancing my expertise in areas like deep learning and data analytics to further my goal of becoming a digital craftsman.
+As a Research Scientist | Engineer with a bachelor's in engineering physics, I have a solid skill set in sensor design, full-stack web development, and embedded systems, backed by years of impactful work at Michigan Aerospace. With a passion for research, I've led software development for cutting-edge atmospheric LiDAR projects, using machine learning and robotic systems. I am a motivated individual who thrives in a collaborative or remote setting, driven by a relentless curiosity to solve complex problems. Currently, I’m focusing on improving my skills in deep learning and data analytics to advance my career.
 
 #
 
